@@ -1,0 +1,12 @@
+.flavors-mainTitle {
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+.flavors-productCard {
+  display: flex;
+  padding: 0px 40px 20px 40px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  background: var(--green, #a0d187);
+}

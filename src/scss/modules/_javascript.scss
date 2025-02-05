@@ -1,0 +1,14 @@
+.redBackground {
+  background: var(--red, #cf9697);
+}
+
+.blueBackground {
+  background: var(--light-blue, #c0d9d9);
+}
+.is-hidden {
+  display: none;
+}
+.secondHeader {
+  background: var(--yellow, #fce757);
+  color: var(--dark-blue, #005564);
+}
